@@ -1,0 +1,17 @@
+{
+  "name": "sass_project",
+  "version": "1.0.0",
+  "description": "my js course homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-scss": "scss main.scss:main.css"
+  },
+  "author": "Angsar Aidarbek",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.69.5"
+  },
+  "keywords": []
+}
